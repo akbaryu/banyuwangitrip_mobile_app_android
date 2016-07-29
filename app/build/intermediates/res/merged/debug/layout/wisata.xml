@@ -1,0 +1,675 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wisata_ico" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:text="1.Green Bay Beach (Teluk Ijo)"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/telukijo" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Di Teluk Hijau ini, Anda akan merasakan udara segar pantai yang bercampur dengan udara hutan hutan tropis Taman Nasional Meru Betiri. Dari kota Banyuwangi, jarak perjalanan sekitar 3-4 jam. Perjalanan ke Teluk Hijau ini cukup melelahkan, namun Anda akan menyaksikan panorama laut yang memikat. Tahukah Anda, teluk ini adalah tempat wisata di Banyuwangi yang masih sangat terjaga kemurniannya, belum banyak wisatawan yang datang ke tempat ini. Inilah daya tarik memikat yang dapat Anda temukan." />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Wisata Pantai Sukamade (Konservasi Penyu)"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantaisukamadepenyu" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pantai Sukamade Terletak di 97 km kearah barat daya darikota Banyuwangi pantai ini terbilang cukup jauh dari pusat kota Banyuwangi, tidak semua kendaraan dapat menuju pantai tersebut. Untuk anda yang berjiwa tantangan dan berpetualang pantai sukamade sangat cocok untuk anda coba, akses jalan yang terbilang ekstrim akan memacu adrenalin para wisatawan yang akan menuju ke pantai tersebut. dalam perjalanan kita akan melewati gunung gamping dengan berbagai macam pepohonan. Sebelum sampai di pantai yang dijuluki sarang penyu tersebut kita akan melewati 2 pantai yaitu pantai Rajegwesi dan pantai Teluk ijo (green bay banyuwangi ). Sesampainya disana kita akan menemukan penangkaran penyu, para wisatawan dapat menyaksikan proses penyu bertelur sampai penyu tersebut kembali ke laut hingga ikut melepaskan anakan penyu yang sudah menetas.jika malam hari kita dapat menyakksikan indukan penyu yang sedang bertelur. Ada 4 jenis penyu yang dapat kita jumpai dari 6 penyu yang berada di Indonesia yaitu : Penyu Hijau (Chelonia mydas), Penyu Slengkrah (Lepidochelys olivaceae), Penyu Sisik (Eretmochelys imbricata) dan Penyu Belimbing (Dermochelys coriaceae). akan tetapi penyu yang sering mendarat di pantai sukamade ini adalah Penyu Hijau. penyu penyu yang dilepaskan ke laut akan kembali lagi ke penangkaran setelah beberapa tahun."/>
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Taman Nasional Baluran Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hutanbaluran" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Taman Nasional Baluran adalah salah satu Taman Nasional di Indonesia yang terletak di wilayah Banyuputih, Situbondo dan Wongsorejo, Banyuwangi (sebelah utara), Jawa Timur, Indonesia. Nama dari Taman Nasional ini diambil dari nama gunung yang berada di daerah ini, yaitu Gunung Baluran. Gerbang untuk masuk ke Taman Nasional Baluran berada di 7°55'17.76'S dan 114°23'15.27'E. Taman nasional ini terdiri dari tipe vegetasi sabana, hutan mangrove, hutan musim, hutan pantai, hutan pegunungan bawah, hutan rawa dan hutan yang selalu hijau sepanjang tahun. Tipe vegetasi sabana mendominasi kawasan Taman Nasional Baluran yakni sekitar 40 persen dari total luas lahan."/>
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Watu Dodol Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/watudodolbwi" />
+        
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Watu dodol terletak di Desa ketapang, lokasinya tidaklah jauh dari pelabuhan Ketapang dan dekat dengan jalan utama menuju Taman Nasional Baluran. Pemandangan di Watu Dodol sangat indah, Anda dapat menyaksikan pemandangan pantai yang indah di sepanjang jalan dengan bebukitan yang berada di seberangnya. Tahukah Anda, di sini Anda bahkan dapat melihat Pulau Bali. Tak ayal, banyak wisatawan yang berhenti dan bersantai di Watu Dodol untuk menikmati panorama yang indah di sana. Juga, tersedia motel dan resto yang siap melayani Anda di salah satu objek wisata Banyuwangi ini."/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Pantai Pulau Merah"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pulaumerah" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Masyarakat Banyuwangi menyebutnya sebagai Pulau Merah, sebab tanahnya berwarna merah. Bentuknya menyerupai sebuah bukit kecil, terletak tak jauh dari bibir pantai yang memiliki pasir putih sepanjang 3 km. Anda dapat menginjakkan kaki di Pulau Merah ini tatkala air sedang surut, jaraknya hanya 100 meter dari bibir pantai. Cukup hanya dengan berjalan kaki saja. Pantai ini dahulu bernama Pantai Ringin Pitu, sekarang disebut sebagai Pantai Pulau Merah.Ada 2 versi yang beredar tentang penamaan Pulau Merah ini. Pantai ini sekarang sedang dipersiapkan sebagai salah satu tempat surfing di Banyuwangi. Hal ini telah dibuktikan dengan kejuaraan International Surfing Competition pada 2013 yang lalu dengan diikuti para surfer dari 20 negara. Pantai Pulau Merah memiliki ketinggian gelombang hingga 4-5 m, sebuah tempat berselancar di Banyuwangi yang menarik bagi para pemula atau bahkan yang sudah pro. Pantai Pulau Merah berada di Desa Sumberagung, Kecamatan Pesanggaran. Berjarak sekitar 80 km dari pusat kota Banyuwangi. Harga tiket masuk ke Pantai Pulau Merah adalah Rp 3 ribu per orang, saat weekend menjadi Rp 5 ribu. Untuk ke tempat wisata di Banyuwangi yang satu ini, Anda dapat menggunakan transportasi publik. Dari kota Banyuwangi di Terminal Brawijaya naik Bus Minto/Ujang Jaya arah ke Kecamatan Pesanggaran, lalu turun di Pasar Pesanggaran, dan dilanjutkan dengan menyewa ojek ke Pantai Pulau Merah. Jika Anda dari arah Jember, turunlah di terminal Jajag, kemudian naik bus ke Pesanggaran, dan turun Pasar Pesanggaran lalu dilanjutkan dengan menyewa ojek ke pulau merah." />
+		
+         <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6.Kawah Ijen (Blue Fire) Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+         <ImageView
+             android:id="@+id/imageView5"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:src="@drawable/kawahijen" />
+         
+         <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Kawah Ijen adalah kawah danau terbesar di pulau Jawa, secara administratif terletak di 3 kabupaten, yaitu Bondowoso, Situbondo, dan Banyuwangi. Kawah ini berada pada ketinggian 2.443 m dpl, dengan kedalaman kawah 200m. Kawah Ijen ini diselimuti asap belerang, ini membuatnya memiliki pesona luar biasa, yakni adanya danau belerang yang berwarna tosca dan api biru (blue fire). Anda dapat menyaksikan panorama memikat ini pada saat malam hari hingga menjelang subuh. Agar dapat tiba di Kawah Ijen, Anda dapat memilih 2 jalur, yaitu dari utara dan selatan. Jalur utara dapat dilalui dari Situbondo menuju Sempol (Bondowoso) dan berakhir di Paltuding, waktu tempuh sekitar 2,5 jam. Jika dari arah selatan, dapat dilalui dari Banyuwangi menuju Licin yang berjarak sekitar 35 km. Untuk mencapai kawah, Anda harus mendaki setinggi 3 km, ini memakan waktu sekitar 1,5 jam. Kemiringan pendakian adalah 25-35 derajat. Rasa lelah mendaki akan terbayar lunas tatkala mendapati pesona indah blue fire di salah satu tempat wisata di Banyuwangi terpopuler ini."/>
+
+         <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Pulau Tabuhan"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+         <ImageView
+             android:id="@+id/imageView7"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:src="@drawable/tabuhan" />
+         
+         <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pulau Tabuhan adalah destinasi wisata yang cocok bagi Anda yang ingin melakukan scuba diving di Banyuwangi. Air laut di pulai ini sangat jernih, dan sesungguhnya layak menjadi salah satu tempat wisata di Banyuwangi yang menawan. Terletak di desa Bangsring, Kecamatan Wongsorejo, jarak Pulau Tabuhan hanya sekitar 20 km dari pusat kota Banyuwangi. Pulau yang tak berpenghuni ini memiliki luas area sekitar 5 ha dengan karakter pasir pantai yang putih serta air lautnya yang begitu bening. Untuk dapat tiba di Pulau Tabuhan, Anda harus menyeberangi laut lewat Pantai Kampe. Akses menuju ke pantai Kampe ini dapat melalui jalan setapak yang ada di kebun Pasewaran, yakni sebuah kebun yang dikelola oleh PT Perkebunan Nusantara XII. Ada banyak nelayan di pantai Kampe, dan tersedia pula kapal motor yang siap mengantarkan Anda ke Pulau Tabuhan tersebut dengan waktu perjalanan sekitar 30 menit."/>
+		
+         <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Air Terjun Lider Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+         <ImageView
+             android:id="@+id/imageView8"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:src="@drawable/liderbwi" />
+         
+         <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Air Terjun Lider memiliki terjunan air setinggi 60 m dari ketinggian 1.300 m dpl. Pesona tempat wisata Banyuwangi yang satu ini adalah pada dinding tebing dua jurang yang menghimpit air terjun. Untuk dapat sampai di Air Terjun Lider, Anda harus menempuh perjalanan sejauh 45 km dari kota Banyuwangi. Saat hampir dekat dengan air terjun, Anda harus berjalan kaki ke lokasi dengan melintasi jalan setapak yang telah tertata dengan baik."/>
+		
+         <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Pantai Plengkung Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+         <ImageView
+             android:id="@+id/imageView9"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:src="@drawable/gland" />
+         
+         <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pantai Plengkung adalah pantai di Banyuwangi yang terkenal sebagai pantai terbaik untuk surfing. Tempat wisata Banyuwangi yang satu ini memiliki reputasi pantai yang begitu baik hingga ke mancanegara sebagai tempat surfing. Jika Anda ingin surfing di pantai ini, maka bulan Mei hingga Otober adalah medio terbaik untuk surfing. Di kawasan pantai ini, tersedia banyak cottage dan jungle camp. Pantai Plengkung adalah juga salah satu objek wisata Jawa Timur yang telah dikenal luas oleh publik dunia. Tempat ini adalah salah satu destinasi wisata pantai yang recommended di Indonesia."/>
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10. Pantai Boom"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantaiboom" />
+
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Letaknya yang berada di pusat kota banyuwangi membuat pantai boom menjadi salah satu destinasi yang mudah untuk dikunjungi. Anda bisa menggunakan sepeda atau berjalan kesana jika posisi anda berada di alun alun blambangan. Pantainya yang berpasir hitam yang bersih tidak kalah dengan pantai yang berpasir putih, ditambah dengan latarbelakang pulau Bali yang bagus ini. selain bisa menikmati keindahan pantai pengunjung juga bisa mencoba fasilitas - fasilitas yang tersedia di pantai boom seperti payung teduh dan berkuda. Selain sebagai destinasi wisata andalan Banyuwangi, pantai boom juga sering dijadikan tempat penyelenggaraan event besar seperti tarian kolosal gandrung yang ditarikan oleh 1000 lebih penari gandrung yang bertajuk Sewu Gandrung dan Banyuwangi Beach Jazz Festival adalah event JAZZ pantai pertama dan satu – satunya di Indonesia yang diadakan di Pantai Boom Banyuwangi."/>
+
+        <TextView
+            android:id="@+id/textView38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11. Wedi Ireng"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wediireng" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="pantai wedi ireng merupakan replika kecil dari raja ampat di papua karena sejauh mata memandang akan terlihat tebing tebing yang memutari pulau, Disana juga terdapat pulau pulau kecil. Pantai ini masih tergolong asri, itu terlihat dari medan yang dilalui. Jika anda melalui jalur darat anda akan melewati medan yang sangat berat dan susah karena anda harus melewati hutan dengan jalan yang berlumpur. Anda juga harus mendaki sampai ke ujung bukit lalu menuruninya. Namun percayalah, perjalanan anda tidak akan sia sia jika sudah sampai ke di pantai. Air lautnya yang masih jernih dan berwarna biru serta bibir pantai yang dikelilingi pepohonan hijau memberikan suasana teduh. Dalam bahasa jawa arti dari pantai wedi ireng adalah pantai pasir hitam namun kenyatanyaannya pasir disini paling dominan adalah pasir putih. Deretan karang di tepi Pantai semakin menambah pesonanya. Di salah satu sisi Pantainya terdapat sebuah batu berukuran sangat besar yang menjadi landmark Pantai Wedi Ireng ini."/>
+
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12. Taman Nasional Baluran"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baluran" />
+
+        <TextView
+            android:id="@+id/textView43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Inilah hamparan savana terluas di Pulau Jawa, membuat Anda yang berkunjung ke sini serasa berada di Afrika. Di Baluran tersaji sungguhan alam menakjubkan ketika ratusan rusa berlarian menuju kubangan air, merak jantan melebarkan ekornya untuk menarik perhatian sang betina, puluhan kerbau besar yang gagah, belasan elang mencari makan, hingga lutung dan makaka yang bergelantungan. Belum lagi pepohonan khas Baluran yang mirip pohon pinang dan berbuah sekali seumur hidup sebanyak 1 ton untuk kemudian mati. Pohon pilang yang berbatang putih dan rimbun, bila Anda mengamatinya secara seksama maka mirip pohon di film “Avatar” serta pohon bekol yang rindang mirip beringin dengan nuansa magis."/>
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="13. Pantai Mustika"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantaimustika" />
+
+        <TextView
+            android:id="@+id/textView45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Keistimewaan dari pantai mustika adalah pantainya masih bersih dan alami, selain itu panjang pantai hampir mencapai 2 KM membentuk setengah lingkaran dan ditengah tengahnya ada pulau mustaka. Rencananya pantai mustika akan dibagi menjadi dua bagian yaitu public dan private agar semua kalangan bisa menikmati. Hal ini dilakukan karena permintaan wisatawan menengah keatas yang menginginkan duduk santai dan ngopi dengan suasana yang tenang. Ombak di pantai mustika tidak terlalu besar, cukup aman bagi anda yang mengajak anak anaknya bermain di pinggir pantai atau berenang di pantainya. Disekitar pantai banyak ditumbuhi pohon kelapa yang membuat suasana menjadi sejuk. Disini juga disediakan meja dan kursi agar pengunjung bisa duduk santai dan menikmati indahnya sunrise."/>
+
+
+        <TextView
+            android:id="@+id/textView46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="14. Blue Bay / Teluk Biru"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantaibluebay" />
+
+        <TextView
+            android:id="@+id/textView47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Teluk yang satu ini berbeda dengan green bay. Jika green bay mempunyai keindahan pasir putih dan warna air lautnya yang kehijauan. Kalau Blue Bay mempunyai keindahan bawah laut yang indah. Teluk Blue Bay salah satu alternative snorkeling di banyuwangi selain pantai bama di baluran atau pulau tabuhan. Keindahan bawah laut Blue Bay tidak kalah dengan kedua wisata diatas. Laut disini juga masih asri dan belum terekpose, terbukti dari warna lautnya yang biru jernih. itulah kenapa teluk ini dinamakan teluk biru atau Blue Bay."/>
+
+        <TextView
+            android:id="@+id/textView48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="15. Desa Adat Kemiren"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/desaadatkemiren" />
+
+        <TextView
+            android:id="@+id/textView49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Kemiren merupakan salah satu desa adat di banyuwangi yang masih kental akan adat istiadat suku osing. desa yang terletak di kecamatan glagah, Banyuwangi. penduduk di desa ini dipenuhi dengan suku osing semua dan masih mempertahankan tradisinya. bahasa keseharian mereka menggunakan bahasa Osing. sekedar informasi, Osing sendiri memiliki arti tidak, kita sebagai suku Osing memilih kata Osing karena kita dulu berkata Tidak untuk penjajahan atau Osing kanggo penjajahan. Karena masih kentalnya adat istiadat di desa ini, pemerintah menetapkan desa ini sebagai cagar budaya. Salah satu daya tarik desa kemiren adalah adanya Sanggar Genjah Arum, Sanggar ini di desain dengan tema rumah masyarakat Banyuwangi di tempoe doeloe. Sanggar ini milik seorang pengusaha perkebunan yang bernama Setiawan Subekti atau biasa dipanggail dengan kang Iwan. Selain Sanggar Genjah Arum, di desa ini sering diadakan festival seperti Ngopi Sewu. festival ini merupakan acara tahunan pemerintah banyuwangi yang di selenggarakan di desa adat kemiren dimana penduduk di desa ini menyediakan meja dan kursi di depan rumah yang dilengkapi dengan kopi asli banyuwangi untuk di minum bersama - sama."/>
+
+
+        <TextView
+            android:id="@+id/textView50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="16. Rowo Bayu"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rowobayu" />
+
+        <TextView
+            android:id="@+id/textView51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Rowo bayu adalah sebuah rawa yang dikanan kirinya masih ditumbuhi tanaman asri dan kawasan hutan lindung. Keasrian ini membuat satwa dan fauna di rawa bayu masih banyak populasinya. Rowo bayu berasal dari kata rowo yang berarti “rawa” sedangakan bayu itu berasal dari nama desa yaitu “desa Bayu”. Berada di kawasan hutan petak 8, dusun sambung rejo, desa bayu, kecamatan Songgon,Banyuwangi Jawa Timur. Lokasinya berada di ketinggian kurang lebih 800 meter di atas permukaan laut, sehingga udara dikawasan ini sangat sejuk. Areal telaga berdiameter sekitar 50 meter itu terkungkung hutan lebat dan bebat daun aneka pepohonan. Akibatnya, matahari pun susah payah meneroboskan sinarnya hingga siang hari seperti matahati tenggelam. Selain Para Penelusur menikmati keindahan Rowo Bayu, ternyata Rowo Bayu juga terkenal dengan sejarahnya lho, karena konon katanya telaga itu menyimpan sejarah Blambangan yang penuh linangan air mata dan tetesan darah. Di salah satu sudut di pinggir telaga itu terdapat petilasan Raja Blambangan Tawang Alun ketika bersemedi merenungi kematian dua adiknya, yang berperang melawan dirinya."/>
+
+
+        <TextView
+            android:id="@+id/textView52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="17. Pantai Grajagan"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantaigrajakan" />
+
+        <TextView
+            android:id="@+id/textView53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pantai Grajagan merupakan salah satu pantai yang sangat fenomenal pada jaman dahulu kala sampai - sampai dijadikan sebuah lagu. salah satu baitnya berbunyi 'Grajagan Banyuwangi, raino bengi yoo sing tau sepi' yang berarti 'Grajagan Banyuwangi, Setiap Malam tidak pernah sepi'. hal ini menunjukkan bahwa pantai grajagan dulunya sangatlah banyak pengunjungnya. namun pada saat ini pesonanya kalah dengan pantai Pulau Merah ataupun Teluk Hijau. Pantai yang terletak di desa Grajagan, Kecamatan Purwoharjo ini memiliki pasir berwarna hitam dan luas. disana terdapat gua dan bukit yang sangat indah, disaat berada di pantai Grajagan anda akan melihat hamparan pantai yang luas dengan ombak laut lepas serta bukit yang menjulang tinggi. di pantai ini juga terdapat dua goa peninggalan tentara jepang pada perang dunia ke dua."/>
+
+
+        <TextView
+            android:id="@+id/textView54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="18. Air Terjun Kampung Anyar"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/airterjunkampunganyar" />
+
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Dinamakan Air Terjun Kampung Anyar karena berada di Dusun Kampung Anyar, Desa Taman Suruh Kecamatan Glagah Kabupaten Banyuwangi. salah satu destinasi air terjun yang menjadi primadona di kota Banyuwangi. keunikan dari destinasi ini adalah pengujung dapat menikmati tiga air terjun sekaligus disatu tempat. Banyak sebutan dari air terjun ini, mulai dari air terjun bersaudara atau air terjun kembar,air terjun kampung anyar , air terjun bidadari, air terjun jagir."/>
+
+        <TextView
+            android:id="@+id/textView56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19. Songgon Rafting"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xbadeng" />
+
+        <TextView
+            android:id="@+id/textView57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Wisata Kali Badeng merupakan salah satu potensi wisata di kabupaten paling timur di Pulau Jawa. Berada di Desa Sumber Bulu Kecamatan Songgon Kabupaten Banyuwangi, Kali Badeng merupakan sungai yang berarus deras dengan jenis bebatuan kecil hingga besar yang mengalir dari kaki Gunung Raung. Belum lagi pemandangan yang masih asri di hamparan hutan pinus dengan cuaca yang sejuk."/>
+
+
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20. Bangsring Under Water (Bunder) / Rumah Apung"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bangsring" />
+
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Bangsring Underwater. Pantai yang terletak di dusun krajan, desa bangsring, kecamatan wongsorejo ini memiliki keindahan bawah laut yang indah. Pantai ini sangat cocok bagi anda pecinta olahraga snorkeling . Pengunjung bisa menikmati keindahan biota dan tanaman laut yang lumayan bagus. Selain terumbu karangnya yang indah, disini juga ada ikan hias yang menghiasi perairan di Bangsring Underwater. Mereka berenang menari nari diatas coral yang ada disini. Coral disini tebagi menjadi dua, yaitu soft coral dan hard coral yang masih terjaga dengan baik. Dan menjadi tanaman yang indah bagi 500 jenis ikan hias perairan ini. Namun dari 15 spesies yang tersebar dalam perairan ini, yang paling banyak diminati adalah jenis angel. Dan yang paling banyak diburu adalah ikan jenis betok. Stoknya yang melimpah membuat jenis ikan betook dibutuhkan dalam jumlah yang banyak."/>
+
+
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21. Air Terjun Kalibendo"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/airterjunkalibendo" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Terletak sekitar 20 km dari pusat kota Banyuwangi, Air Terjun Kalibendo menawarkan pemandangan luar biasa indah dan menenangkan, air jernih dan sungai-sungai dengan air dingin yang mengalir di sekitar air terjun. Berada di dataran tinggi, membuat tempat wisata ini memiliki udara yang sejuk dan menyenangkan. Jika berangkat dari Kampung Anyar, Glagah, Anda akan disuguhi pemandangan yang tak kalah indah. Anda akan diajak melewati perkebunan teh, kopi dan cengkeh yang berupa hamparan hijau menyejukan mata. Suasana pedesaan juga dapat Anda rasakan dalam perjalan menuju ke air terjun setinggi 10 meter ini."/>
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="22. Agrowisata Kali Klatak"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/agrowisatakaliklatak" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Ini adalah pelopor agrowisata pertama di Banyuwangi. Agrowisata Kali Klatak sebelumnya dimiliki oleh Belanda di bawah Mij Moorman dan Co. sampai akhirnya beralih ke tangan pengusaha pribumi, R. Soehoed Prawiroatmodjo. Berada di lereng gunung dengan ketinggian mencapai 450 meter di atas permukaan laut membuat tanah d sini cukup subur yang cocok untuk bertanam apapun, agrowisata ini pun berkembang dengan baik. Hasil perkebunannya meliputi karet, kopi, cokelat, kelapa, buah-buahan dan beragam rempah. Satu lagi yang menarik adalah diadakannya ritual sedekah bumi setiap tanggal 17 April."/>
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="23. Pemandian Taman Suruh"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pemandiantamansuruh" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pemandian Taman Suruh ini berada di Desa Taman Suruh, Kecamatan Glagah. Tempat wisata seluas 3,5 hektar ini berada di ketinggian 1.000 meter di atas permukaan laut. Sebelumnya, kawasan ini tandus dan kosong, namun terdapat mata air dingin dari bebatuan. Melihat potensi yang dimiliki, maka kawasan ini pun dibangun menjadi sebuah tempat wisata di Banyuwangi. Tempat wisata ini terdiri dari kolam pemandian untuk anak-anak dan dewasa. Pada kolam anak-anak, disediakan wahana permainan yang menyenangkan bagi anak-anak. Selain itu, tempat wisata ini juga dilengkapi dengan ruang bilas, ruang ganti, mushola dan kafetaria."/>
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="24. Wisata Mangrove Bedul Banyuwangi"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wisatabedul" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Wisata Pantai Bedul atau juga disebut dengan wisata MangroveBlok Bedul, letaknya berada di Dusun Bloksolo, Desa Sumberasri, Kecamatan Purwoharjo, Kabupaten Banyuwangi. Wilayah ini menjadi bagian dari kawasan Taman Nasional Alas Purwo (TNAP) atau bagian belakang taman nasional tersebut. Wisata Mangrove Bedul memang terletak di tengah-tengah antara pantai Grajagan dan Alas Purwo serta Plengkung (G-Land). Asal usul nama Bedul konon berawal dari banyaknya ikan Bedul yang ada di daerah sekitar Segoro Anakan Bedul. Ikan Bedul merupakan salah satu jenis ikan Gabus yang memiliki sirip dipungungnya. Menuju Dermaga Pandang Bedul Sebutan Wisata Mangrove tidaklah berlebihan untk menyebut tempat wisata di pantai Bedul ini. Sebab wisatawan yang berkunjung ke tempat itu akan menjumpai ribuan pohon Mangrove atau bakau. Sejauh mata memandang, hutan mangrove itu menaungi perairan Blok Bedul. Blok Bedul merupakan daerah hilir dari DAS Stail. Aliran sungai itu membentuk rawa air payau. Itulah kawasan Segara Anak atau warga sekitar menyebutnya dengan Segara Anakan. Segara anak merupakan muara sungai yang memiliki panjang 18,8 km dengan lebar rata-rata 400 meter yang menghubungkan dengan laut selatan. Di sisi kiri dan kanan segara anak ini dipadati dengan aneka jenis mangrove. Hutan mangrove di Blok Bedul tumbuh di lahan seluas 2.300 hektare, membentang sepanjang 16 kilometer di pinggir segara anak kawasan Taman Nasional Alas Purwo yang berfungsi menahan abrasi air laut. Ada 27 jenis mangrove yang hidup di sini dan merupakan terlengkap di Indonesia. Tak pelak Segara Anakan merupakan kawasan mangrove terbesar di Pulau Jawa."/>
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="25. Pemandian Taman Suruh"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pemandiantamansuruh" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pemandian Taman Suruh ini berada di Desa Taman Suruh, Kecamatan Glagah. Tempat wisata seluas 3,5 hektar ini berada di ketinggian 1.000 meter di atas permukaan laut. Sebelumnya, kawasan ini tandus dan kosong, namun terdapat mata air dingin dari bebatuan. Melihat potensi yang dimiliki, maka kawasan ini pun dibangun menjadi sebuah tempat wisata di Banyuwangi. Tempat wisata ini terdiri dari kolam pemandian untuk anak-anak dan dewasa. Pada kolam anak-anak, disediakan wahana permainan yang menyenangkan bagi anak-anak. Selain itu, tempat wisata ini juga dilengkapi dengan ruang bilas, ruang ganti, mushola dan kafetaria."/>
+
+        <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="26. Pantai Rajegwesi"
+        android:paddingTop="20px"
+        android:paddingLeft="20px"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pantairajekwesi" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Pantai yang terletak di Desa Sarongan, Kecamatan Pesanggaran ini merupakan tempat wisata alam sekaligus sejarah yang sangat menarik untuk dikunjungi. Berada di sini, Anda bisa menyaksikan keindahan pantai dan bunker sisa kejayaan bangsa Jepang di masa penjajahan. Pantai Rajegwesi memiliki keunikan yang tak banyak dimiliki pantai-pantai lain. Pasir pantai berwarna kecokelatan dan sangat lembut. Hal ini dikarenakan pasir pantai bercampur dengan endapan lumpur yang terbawa air sungai saat banjir. Selain keindahan alam dan nilai sejarahnya, Anda juga bisa melihat kehidupan masyarakat sekitarnya. Sebagian besar masyarakat sekitar tempat wisata di Banyuwangi ini berkerja sebagai nelayan. Anda bisa melihat perahu nelayan yang ‘diparkir’ di bagian barat pantai, sedangkan bagian timur dibiarkan lapang untuk tempat penyu bertelur."/>
+
+        <TextView
+            android:id="@+id/textView58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="26. Taman Sritanjung"
+            android:paddingTop="20px"
+            android:paddingLeft="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tamansritanjung" />
+
+        <TextView
+            android:id="@+id/textView59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingRight="10px"
+            android:paddingTop="10px"
+            android:text="Sebelum memulai petualangan menjelajahi wilayah pinggiran Banyuwangi untuk menemukan potensi wisata alam yang luar biasa, kamu bisa mamipir terlebih dulu ke Taman Sritanjung, sebuah taman kota nan asri yang sering dijadikan tempat nongkrong warga Banyuwangi. Taman kota ini berada di sebelah Masjid Agung Baiturrahman Banyuwangi Suasana taman yang asri merupakan tempat yang cukup menyenangkan untuk bercengrama atau sekedar duduk-duduk santai. Nama taman ini diambil dari salah satu tokoh wanita dalam legenda Banyuwangi yakni Sritanjung"/>
+
+    </LinearLayout>
+
+</ScrollView>

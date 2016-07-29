@@ -1,0 +1,142 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/belanja_ico" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Sun East Mall"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mallsuneast" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Pusat perbelanjaan ini terletak di kota genteng. Tempat ini sering disebut dengan SEM yang merupakan singkatan dari Sun East Mall. Kebanyakan yang dijual disini adalah pakaian beserta aksesoris lain seperti sepatu, tas dengan harga yang relatif berkelas." />
+	
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Mall Sritanjung"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/mallsritanjung"
+            android:layout_weight="1.11" />
+        
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Mall Sritanjung adalah mall terbesar di daerah Banyuwangi. Mall ini terletak di pusat Kota Banyuwangi."/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Mall Roxy"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="394dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mallroxy" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Mall ini juga terletak di wilayah Banyuwangi Kota."/>
+        
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Mall Matahari"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mallmatahari" />
+        
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Mall ini terletak di wilayah Banyuwangi Kota."/>
+        
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Mall KDS"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mallkds" />
+        
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20px"
+            android:paddingTop="10px"
+            android:paddingRight="10px"
+            android:text="Pusat perbelanjaan ini terletak di kota genteng. Tempat ini sering disebut dengan KDS yang merupakan singkatan dari Karunia Damai Sejahtera. Kebanyakan yang dijual disini adalah pakaian beserta aksesoris lain seperti sepatu, tas dengan harga yang relatif murah"/>
+        
+    </LinearLayout>
+
+</ScrollView>
