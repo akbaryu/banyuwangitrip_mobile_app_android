@@ -10,4 +10,12 @@ Banyuwangi Trip adalah aplikasi mobile yang diperuntukan kepada orang-orang trav
 
 Aplikasi ini dibuat oleh : [Yudha Akbar] 
 
+<p align="center">
+  <img height="300" src="https://github.com/akbaryu/banyuwangitrip_mobile_app/raw/master/bwi_image/1.JPG"> 
+  <img height="300" src="https://github.com/akbaryu/banyuwangitrip_mobile_app/raw/master/bwi_image/2.JPG">
+  <img height="300" src="https://github.com/akbaryu/banyuwangitrip_mobile_app/raw/master/bwi_image/3.JPG">
+  <img height="300" src="https://github.com/akbaryu/banyuwangitrip_mobile_app/raw/master/bwi_image/4.JPG">
+  <img height="300" src="https://github.com/akbaryu/banyuwangitrip_mobile_app/raw/master/bwi_image/5.JPG">
+</p>
+
    [yudha akbar]: <http://github.com/akbaryu>
