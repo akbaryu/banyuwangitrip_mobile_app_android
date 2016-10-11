@@ -1,4 +1,7 @@
 # Banyuwangi Trip
+
+Download Aplikasi : https://drive.google.com/open?id=0B6qAdx4PJtlyUkhJMnhzMHBnRTA
+
 ### (Android Project)
 Banyuwangi Trip adalah aplikasi mobile yang diperuntukan kepada orang-orang traveler, tetapi khusus yang bertujuan ke Banyuwangi. Aplikasi ini mempunyai fitur :
 
